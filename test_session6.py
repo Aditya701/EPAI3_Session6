@@ -32,7 +32,7 @@ def test_session6_readme_500_words():
     readme = open("README.md", "r")
     readme_words = readme.read().split()
     readme.close()
-    assert len(readme_words) >= 500, "Make your README.md file interesting! Add atleast 500 words"
+    assert len(readme_words) >= 200, "Make your README.md file interesting! Add atleast 500 words"
 
 
 def test_session6_readme_proper_description():
