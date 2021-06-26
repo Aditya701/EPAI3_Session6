@@ -10,3 +10,43 @@ Docstrings are a must, and it must mention what the function is doing (2, 3) - 2
 Write annotations for 3 - 25 pts
 Basics tests to ensure your code is correct (20+ combination tests (counted as 1 test) in 3, check 1/2 with a manual list of 52 cards. Overall 20 tests at minimum) - 200 pts
 Import your python file/functions to a notebook, and then SHOW all the functions working as intended. This notebook file is the first file that we'll check to see your results. So if this file is missing, or a particular function/feature is not mentioned here, you'll lose marks. 
+
+
+## deck_using_Normal_func: 
+This function takes in suits, values and deck as input and returns the combined deck using loops as backend
+
+## generate_deck_lambda_map_zip
+This function is takes values from suits and value list and retrun the combined deck usng loops as backend
+
+## fib_check
+This function tells given given number the fibonacci number or not comparing with pre defined fibonacci list or dict
+
+## even_odd:
+check the function add 2 iterables a and b such that a is even and b is odd
+
+## strip_vowel_str:
+function which  strips every vowel from a string provided
+
+## relu_activation:
+Function which acts like a relu function for a 1D array
+
+## sigmoid_activation
+Function which act like sigmoid function for a 1D array
+
+## shift_5_char:
+Function which takes a small character string and shifts all characters by 5 (handle boundary conditions) tsai>>yxfn
+
+## profane_filter:
+A function contain list comprehension expression that takes a ~200-word paragraph, and checks whether it has any of the swear words mentioned in https://github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt
+
+## add_even_num:
+Function which uses reduce function to add only even numbers in a list
+
+## big_char_str
+Function uses reduce to find big ascii character in string
+
+## add_third_num
+Function which adds every third number from the list
+
+## num_plate:
+Function  Using randint, random.choice and list comprehensions, an expression that generates 15 random KADDAADDDD number plates, where KA is fixed, D stands for a digit, and A stands for Capital alphabets. 10<<DD<<99 & 1000<<DDDD<<9999
